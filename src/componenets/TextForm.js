@@ -47,8 +47,8 @@ const handleSpace = () =>{
          </div>
         <button className="btn btn-primary mx-3"  onClick={handleUpClick}>Uppercase</button>
         <button className="btn btn-primary mx-3 " onClick={handleLowClick}>Lowercase</button>
-        <button className="btn btn-primary mx-3 " onClick={handleClearClick}>Clear</button>
-        <button className="btn btn-primary mx-3 " onClick={handleCopy}>Copy</button>
+        <button className="btn btn-primary mx-3 " onClick={handleClearClick}>Clear Text</button>
+        <button className="btn btn-primary mx-3 " onClick={handleCopy}>Copy Text</button>
         <button className="btn btn-primary mx-3 " onClick={handleSpace}>Remove Space</button>
     </div>
        
